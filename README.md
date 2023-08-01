@@ -6,6 +6,7 @@ Este repositorio contiene la resolución de una serie de problemas. Cada problem
 
 El repositorio se organiza de la siguiente manera:
 
+```bash
 .
 ├── problem1
 │ ├── multiplyWithoutOperator.js
@@ -22,6 +23,7 @@ El repositorio se organiza de la siguiente manera:
 │ ├── arrayAnalysis.js
 │ └── README.md
 └── README.md
+```
 
 
 Cada directorio de problema (por ejemplo, `problem1`, `problem2`, etc.) contiene los archivos de solución para ese problema, junto con un archivo `README.md` que proporciona detalles sobre el problema y cómo ejecutar la solución.
